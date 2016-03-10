@@ -12,7 +12,7 @@ the existing behavior of the second and later parameters.
 All parameters, regardless of position, will behave
 uniformly. This will create a simple, consistent approach to parameter
 declaration throughout the Swift programming language and bring 
-method and function declarations in-sync with initalizers, which
+method and function declarations in-sync with initializers, which
 already use this standard.
 
 *Discussion took place on the Swift Evolution mailing list in the [Make the first parameter in a function declaration follow the same rules as the others](http://article.gmane.org/gmane.comp.lang.swift.evolution/9029) thread.*
